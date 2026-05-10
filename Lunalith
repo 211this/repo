@@ -1,0 +1,17 @@
+{
+  "name": "Obsidian Stillness",
+  "identifier": "com.absolutesynthesis.Lunalith",
+  "apps": [
+    {
+      "name": "Lunalith",
+      "bundleIdentifier": "com.absolutesynthesis.Lunalith",
+      "developerName": "Alex Slem",
+      "version": "1.1",
+      "versionDate": "2026-05-10",
+      "downloadURL": "https://drive.google.com/uc?export=download&id=1B7wvfApLUm7R6TidavcvsCnv-UfyuAu4",
+      "localizedDescription": "A Journey space dedicated to the evolution of Lunalith.",
+      "iconURL": "https://drive.google.com/uc?export=download&id=1r8I8uixfoP2x-ODFNt87oFCTq-TxLGV-",
+      "size": 15700000
+    }
+  ]
+}
